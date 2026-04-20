@@ -1,3 +1,3 @@
 Adding a new line for demo
 
-Adding second line from a different user.
+Adding a second line from a different user as per the comments.
